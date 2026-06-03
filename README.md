@@ -6,12 +6,7 @@
 
 <br/>
 
-<img
-  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk2NzU3ZzQyYmY1ejFuemJrYjVlMzIwZWV1Nmx2a3E2OXRybWl1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f54Or4wFysQ7vVGeKb/giphy.gif"
-  width="280"
-  height="280"
-  alt="coding cat"
-/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXk2NzU3ZzQyYmY1ejFuemJrYjVlMzIwZWV1Nmx2a3E2OXRybWl1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f54Or4wFysQ7vVGeKb/giphy.gif" width="260" alt="coding cat" />
 
 <br/>
 
@@ -22,43 +17,40 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Tôi là ai?
 
-> 🧑 **Võ Văn Hiền** · 20 years old · Ho Chi Minh City 🇻🇳
+> **Võ Văn Hiền** · 20 tuổi · Ho Chi Minh City 🇻🇳
 
-I'm a self‑taught developer who started from absolute zero in 2023.  
-I specialize in **Frontend** (React, TypeScript) and **Android** (Kotlin) — but I don't stop there.
+Mình bắt đầu từ **con số 0** năm 2023 — không học trường IT, không có mentor, chỉ có Google, Stack Overflow và rất nhiều cà phê ☕.
 
-Ever since I discovered **Local LLMs** (AI models that run entirely on your machine, no internet required),  
-I've been completely hooked on the world of **AI/LLM Engineering**.  
-Everything I build is **privacy‑first** — user data never leaves their device.
+Hiện tại mình làm việc với **Frontend** (React, TypeScript) và **Android** (Kotlin).  
+Nhưng thứ mình thực sự đang mê là **AI/LLM Engineering** — đặc biệt là **Local LLMs**: AI chạy ngay trên máy tính của bạn, không cần internet, không tốn tiền, không ai nhìn vào data của bạn.
 
-On top of that, I study **C/C++** and **data management** because I believe:  
-a great developer must understand computers from the lowest level — not just `npm install` and call it a day.
-
+Triết lý sống: *"Build first. Perfect later. Ship always."* 🚀
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 Dự án đang làm
 
 ### 🗂️ DAMN — Desktop Agent Managing Nonsense
-> *Your desktop is a mess. DAMN.*
+> *Desktop bạn đang là bãi chiến trường? DAMN sẽ lo.*
 
-An **AI Agent** that manages files using **Vietnamese**, running completely offline on your personal computer.  
-No internet. No query limits. No cost. No judgment about your Desktop.
+AI Agent quản lý file bằng **tiếng Việt**, chạy hoàn toàn **offline** trên máy tính cá nhân.  
+Không internet. Không giới hạn query. Không mất tiền. Không ai phán xét cái Desktop của bạn.
 
-
-You:   "Find all PDF files in Downloads this month"
-DAMN:  "Found 12 files. Want me to organize them?"
-You:   "Sure"
-DAMN:  ✅ Done in 2 seconds
-You:   😮
+```
+Bạn:   "Tìm tất cả file PDF trong Downloads tháng này"
+DAMN:  "Tìm được 12 file. Bạn muốn mình sắp xếp không?"
+Bạn:   "Ừ đi"
+DAMN:  ✅ Xong trong 2 giây
+Bạn:   😮
+```
 
 | | |
 |---|---|
 | **Stack** | Python · LangChain · Ollama · Groq · CustomTkinter |
 | **Models** | qwen2.5 (local, offline) · Llama 3.3 70B (cloud) |
-| **Status** | 🔨 In development |
+| **Status** | 🔨 Đang phát triển |
 
 ---
 
@@ -108,9 +100,7 @@ You:   😮
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiennam2803&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7F52FF&icon_color=61DAFB&text_color=c9d1d9&bg_color=0d1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiennam2803&layout=compact&theme=tokyonight&hide_border=true&title_color=7F52FF&text_color=c9d1d9&bg_color=0d1117"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hiennam2803&theme=tokyonight&hide_border=true&ring=7F52FF&fire=61DAFB&currStreakLabel=7F52FF)
 
@@ -118,41 +108,17 @@ You:   😮
 
 ---
 
-## 🧠 My Dev Journey
+## 🧠 Hành trình code của mình
 
-| Year | Milestones |
-|------|------------|
-| **2023** | 📌 Started programming from absolute zero<br/>📌 HTML · CSS · JS — first lines of code<br/>📌 `"Hello World"` — the magical feeling of running code for the first time |
-| **2024** | 🚀 Deep dive into React and TypeScript<br/>🚀 Started Android with Kotlin<br/>🚀 Learned C/C++ because I wanted to truly understand how computers work<br/>🚀 Explored SQL and database design |
-| **2025** | 🔥 Got hooked on AI and Local LLMs<br/>🔥 Building **DAMN** — an AI agent for managing files in Vietnamese<br/>🔥 Researching LangChain · Ollama · Groq<br/>🔥 20 years old · still coding at 2am · no regrets |
+| Năm | Chuyện gì xảy ra |
+|-----|-----------------|
+| **2023** | 🐣 Bắt đầu từ con số 0 — HTML, CSS, JS<br/>✨ Lần đầu chạy `"Hello World"` và cảm giác như phù thủy |
+| **2024** | ⚛️ Deep dive vào React và TypeScript<br/>📱 Bắt đầu Android với Kotlin<br/>⚙️ Học C/C++ vì muốn hiểu máy tính thật sự hoạt động ra sao<br/>🗄️ SQL và database design |
+| **2025** | 🤖 Phát hiện Local LLMs và không thể dừng lại<br/>🗂️ Đang xây **DAMN** — AI quản lý file bằng tiếng Việt<br/>🌙 20 tuổi · vẫn code lúc 2 giờ sáng · không hối hận |
 
 ---
 
-## 💭 Philosophy
-
-class HienDev:
-    def daily_routine(self):
-        while True:
-            self.wake_up()
-            self.drink_coffee()           # mandatory, non-negotiable
-            self.open_vs_code()
-            self.code_something_cool()
-
-            if self.encounter_bug():
-                self.google_for_30_mins()
-                self.ask_stackoverflow()
-                self.ask_claude()         # no shame, it's 2025
-                if not self.solved():
-                    self.cry_then_fix()   # works every time
-
-            self.push_to_github()
-            self.sleep()                  # optional tbh
-
-    def life_motto(self) -> str:
-        return "Build first. Perfect later. Ship always."
-
-
-## 📬 Contact
+## 📬 Liên hệ
 
 <div align="center">
 
@@ -165,8 +131,8 @@ class HienDev:
 
 </div>
 
-> 💡 I’m always open to **collaboration**, **freelance projects**, and **crazy 2am ideas**.  
-> Just drop a message — I reply faster than I fix bugs.
+> 💡 Mình luôn mở với **collab**, **freelance**, và những ý tưởng điên rồ lúc 2 giờ sáng.  
+> Nhắn tin đi — mình reply nhanh hơn tốc độ fix bug.
 
 ---
 
@@ -176,6 +142,6 @@ class HienDev:
 
 *"The best code is the code that works at 2am and you don't know why."*
 
-**⭐ Drop a star if you vibe with my work — I'll know someone actually read this**
+**⭐ Drop a star nếu bạn thấy hay — mình biết có người đọc tới đây đấy**
 
 </div>
