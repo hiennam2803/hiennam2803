@@ -96,10 +96,6 @@ Bạn:   😮
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiennam2803&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7F52FF&icon_color=61DAFB&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiennam2803&layout=compact&theme=tokyonight&hide_border=true&title_color=7F52FF&text_color=c9d1d9&bg_color=0d1117"/>
-
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hiennam2803&theme=tokyonight&hide_border=true&ring=7F52FF&fire=61DAFB&currStreakLabel=7F52FF)
