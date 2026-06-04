@@ -21,12 +21,12 @@
 
 > **Võ Văn Hiền** · 20 tuổi · Ho Chi Minh City 🇻🇳
 
-Mình bắt đầu từ **con số 0** năm 2023 — không học trường IT, không có mentor, chỉ có Google, Stack Overflow và rất nhiều cà phê ☕.
+Mình bắt đầu từ **con số 0** năm 2023 — học ngành CNTT, Stack Overflow và rất nhiều cà phê ☕.
 
-Hiện tại mình làm việc với **Frontend** (React, TypeScript) và **Android** (Kotlin).  
+Hiện tại mình làm việc với **Frontend** (Html, Jetpack Compose) và **Android** (Kotlin).  
 Nhưng thứ mình thực sự đang mê là **AI/LLM Engineering** — đặc biệt là **Local LLMs**: AI chạy ngay trên máy tính của bạn, không cần internet, không tốn tiền, không ai nhìn vào data của bạn.
 
-Triết lý sống: *"Build first. Perfect later. Ship always."* 🚀
+Triết lý sống: *"Lỗi tại định mệnh"* 🚀
 
 ---
 
@@ -41,7 +41,7 @@ Không internet. Không giới hạn query. Không mất tiền. Không ai phán
 ```
 Bạn:   "Tìm tất cả file PDF trong Downloads tháng này"
 DAMN:  "Tìm được 12 file. Bạn muốn mình sắp xếp không?"
-Bạn:   "Ừ đi"
+Bạn:   "Ừ làm đi"
 DAMN:  ✅ Xong trong 2 giây
 Bạn:   😮
 ```
