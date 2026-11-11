@@ -27,6 +27,7 @@
     <td width="60%" valign="top">
       <p>Mình là <b>Hiền</b>, sinh viên CNTT tại Đại học Giao thông vận tải TP.HCM, đang đi trên con đường trở thành <b>Full-stack Developer</b>.</p>
       <p>Mình mê AI và thích làm ra những sản phẩm có thể dùng được thật, từ tiện ích trình duyệt đến ứng dụng desktop và Android. Hơi nhiều bug trên đường đi, nhưng bug cũng là bài học miễn phí.</p>
+      <p><a href="https://example.com" target="_blank" rel="noopener noreferrer">Xem chi tiết tại đây</a></p>
     </td>
     <td width="40%" valign="top">
       <b>Địa điểm</b><br />TP. Hồ Chí Minh, Việt Nam<br /><br />
