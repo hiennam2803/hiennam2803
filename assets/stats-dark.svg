@@ -1,6 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 165" role="img" aria-labelledby="t">
-<title id="t">Thống kê GitHub của người dùng</title>
+<title id="t">Thống kê GitHub của hiennam2803</title>
 <rect x="1" y="1" width="493" height="163" rx="10" fill="#15131F" stroke="#2A2640" stroke-width="2"/>
 <text x="25" y="35" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#B4A7F5">GitHub Stats</text>
-<text x="25" y="90" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#9690AA">Chờ workflow "Update Stats" chạy lần đầu…</text>
+<circle cx="31" cy="65" r="4" fill="#36D6C5"/><text x="46" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9690AA">Public repositories</text><text x="470" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#F2EFFA" text-anchor="end">13</text>
+<circle cx="31" cy="89" r="4" fill="#36D6C5"/><text x="46" y="94" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9690AA">Total stars</text><text x="470" y="94" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#F2EFFA" text-anchor="end">1</text>
+<circle cx="31" cy="113" r="4" fill="#36D6C5"/><text x="46" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9690AA">Followers</text><text x="470" y="118" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#F2EFFA" text-anchor="end">1</text>
+<circle cx="31" cy="137" r="4" fill="#36D6C5"/><text x="46" y="142" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#9690AA">Contributions (12 tháng)</text><text x="470" y="142" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#F2EFFA" text-anchor="end">111</text>
+
 </svg>

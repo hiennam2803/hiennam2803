@@ -57,7 +57,31 @@
 <a name="-03"></a>
 <img src="assets/sec-03.svg" alt="03. Hành trình" width="100%" />
 
+<<<<<<< HEAD
 <img src="assets/timeline.svg" alt="Hành trình: sinh viên CNTT, Salud 2025, WIIS 2026, C.I.R.C.A và VYRON 2026, tiếp theo là Full-stack Developer." width="100%" />
+=======
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>Mình là <b>Hiền</b>, sinh viên CNTT tại Đại học Giao thông vận tải TP.HCM, đang đi trên con đường trở thành <b>Full-stack Developer</b>.</p>
+      <p>Mình mê AI và thích làm ra những sản phẩm có thể dùng được thật, từ tiện ích trình duyệt đến ứng dụng desktop và Android. Hơi nhiều bug trên đường đi, nhưng bug cũng là bài học miễn phí.</p>
+      <p>
+        <a href="https://hiennam2803.github.io/Portfolio/"
+           target="_blank"
+           rel="noopener noreferrer">
+          Xem chi tiết tại đây
+        </a>
+      </p>
+    </td>
+    <td width="40%" valign="top">
+      <b>Địa điểm</b><br />TP. Hồ Chí Minh, Việt Nam<br /><br />
+      <b>Định hướng</b><br />Full-stack Development<br /><br />
+      <b>Ngôn ngữ</b><br />Tiếng Việt, Tiếng Anh<br /><br />
+      <b>Cách học</b><br /><code>Build → Break → Debug → Improve</code>
+    </td>
+  </tr>
+</table>
+>>>>>>> 2e1cbc385cc3b8bf779be1eee7b526298ae1eba7
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
