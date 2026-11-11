@@ -88,8 +88,10 @@
   <tr>
     <td width="48%" valign="middle">
       <a href="https://github.com/hiennam2803/Vyron">
-        <img src="assets/project-vyron.svg#gh-dark-mode-only" alt="Poster dự án VYRON: sóng âm và thanh phụ đề" width="100%" />
-        <img src="assets/project-vyron-light.svg#gh-light-mode-only" alt="Poster dự án VYRON: sóng âm và thanh phụ đề" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/project-vyron.svg" />
+          <img src="assets/project-vyron-light.svg" alt="Poster dự án VYRON: sóng âm và thanh phụ đề" width="100%" />
+        </picture>
       </a>
     </td>
     <td width="52%" valign="middle">
@@ -115,16 +117,20 @@
     </td>
     <td width="48%" valign="middle">
       <a href="https://github.com/hiennam2803/C.I.R.C.A">
-        <img src="assets/project-circa.svg#gh-dark-mode-only" alt="Poster dự án C.I.R.C.A: ba khung chat AI hội tụ vào một cửa sổ" width="100%" />
-        <img src="assets/project-circa-light.svg#gh-light-mode-only" alt="Poster dự án C.I.R.C.A: ba khung chat AI hội tụ vào một cửa sổ" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/project-circa.svg" />
+          <img src="assets/project-circa-light.svg" alt="Poster dự án C.I.R.C.A: ba khung chat AI hội tụ vào một cửa sổ" width="100%" />
+        </picture>
       </a>
     </td>
   </tr>
   <tr>
     <td width="48%" valign="middle">
       <a href="https://github.com/uthprj/Salud_App">
-        <img src="assets/project-salud.svg#gh-dark-mode-only" alt="Poster dự án Salud: đường nhịp tim và vòng tiến độ" width="100%" />
-        <img src="assets/project-salud-light.svg#gh-light-mode-only" alt="Poster dự án Salud: đường nhịp tim và vòng tiến độ" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/project-salud.svg" />
+          <img src="assets/project-salud-light.svg" alt="Poster dự án Salud: đường nhịp tim và vòng tiến độ" width="100%" />
+        </picture>
       </a>
     </td>
     <td width="52%" valign="middle">
@@ -150,8 +156,10 @@
     </td>
     <td width="48%" valign="middle">
       <a href="https://github.com/hiennam2803/WIIS">
-        <img src="assets/project-wiis.svg#gh-dark-mode-only" alt="Poster dự án WIIS: lịch tuần với ô Chủ nhật được nhấn mạnh" width="100%" />
-        <img src="assets/project-wiis-light.svg#gh-light-mode-only" alt="Poster dự án WIIS: lịch tuần với ô Chủ nhật được nhấn mạnh" width="100%" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/project-wiis.svg" />
+          <img src="assets/project-wiis-light.svg" alt="Poster dự án WIIS: lịch tuần với ô Chủ nhật được nhấn mạnh" width="100%" />
+        </picture>
       </a>
     </td>
   </tr>
