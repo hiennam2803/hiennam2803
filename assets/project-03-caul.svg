@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 180" width="800" height="180" role="img" aria-label="03 — CaUL: Capture Unlimited">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="800" y2="0">
+      <stop offset="0" stop-color="#7F52FF"/><stop offset="1" stop-color="#36D6C5"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="0.05" cy="0.5" r="0.7"><stop offset="0" stop-color="#7F52FF" stop-opacity="0.30"/><stop offset="1" stop-color="#7F52FF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="180" rx="20" fill="#0F0F1A"/>
+  <rect width="800" height="180" rx="20" fill="url(#gl)"/>
+  <rect x="0.5" y="0.5" width="799" height="179" rx="19.5" fill="none" stroke="url(#g)" stroke-opacity="0.55"/>
+  <text x="40" y="146" text-anchor="start" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="124" font-weight="900" fill="none" stroke="url(#g)" stroke-width="2" stroke-opacity="0.9">03</text>
+  <text x="236" y="102" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="64" font-weight="800" letter-spacing="-1" fill="#FFFFFF">CaUL</text>
+  <text x="238" y="138" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#36D6C5">Capture Unlimited</text>
+  <text x="752" y="34" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="16" fill="#8B8BA3">open →</text>
+</svg>

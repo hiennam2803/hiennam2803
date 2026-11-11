@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="800" height="140" role="img" aria-label="exit 0 — built in Ho Chi Minh City">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="325" y1="0" x2="475" y2="0">
+      <stop offset="0" stop-color="#7F52FF"/><stop offset="1" stop-color="#36D6C5"/>
+    </linearGradient>
+    <radialGradient id="gl" cx="0.5" cy="1.1" r="0.8"><stop offset="0" stop-color="#7F52FF" stop-opacity="0.28"/><stop offset="1" stop-color="#7F52FF" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="800" height="140" rx="20" fill="#0A0A12"/>
+  <rect width="800" height="140" rx="20" fill="url(#gl)"/>
+  <rect x="0.5" y="0.5" width="799" height="139" rx="19.5" fill="none" stroke="#7F52FF" stroke-opacity="0.35"/>
+  <text x="400" y="66" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="34" font-weight="700" fill="url(#g)">$ exit 0</text>
+  <text x="400" y="102" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#C9C9D9">Built in Ho Chi Minh City. Powered by cà phê sữa đá and questionable sleep.</text>
+</svg>
