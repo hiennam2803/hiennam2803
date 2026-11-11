@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 495 165" role="img" aria-labelledby="t">
 <title id="t">Ngôn ngữ dùng nhiều nhất của người dùng</title>
-<rect x="1" y="1" width="493" height="163" rx="10" fill="#15131F" stroke="#2A2640" stroke-width="2"/>
-<text x="25" y="35" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#B4A7F5">Top Languages</text>
-<text x="25" y="90" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#9690AA">Chờ workflow "Update Stats" chạy lần đầu…</text>
+<rect x="1" y="1" width="493" height="163" rx="10" fill="#FFFFFF" stroke="#DDD6F5" stroke-width="2"/>
+<text x="25" y="35" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="700" fill="#6A58D1">Top Languages</text>
+<text x="25" y="90" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#5E5878">Chờ workflow "Update Stats" chạy lần đầu…</text>
 </svg>
