@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" role="img" aria-labelledby="t">
+<title id="t">Ảnh bìa dự án Salud</title>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B4A7F5"/><stop offset="1" stop-color="#36D6C5"/></linearGradient>
+<radialGradient id="o"><stop offset="0" stop-color="#B4A7F5" stop-opacity=".4"/><stop offset="1" stop-color="#B4A7F5" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#B4A7F5" stroke-opacity=".06"/></pattern>
+<clipPath id="c"><rect width="480" height="220" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="480" height="220" fill="#15131F"/>
+<rect width="480" height="220" fill="url(#grid)"/>
+<circle cx="400" cy="40" r="150" fill="url(#o)"/>
+<path d="M28 80 H120 L140 80 L152 40 L168 118 L182 60 L194 80 H300 L320 80 L332 52 L346 104 L358 80 H452" fill="none" stroke="#2A2640" stroke-width="3" stroke-linejoin="round"/>
+<path d="M28 80 H120 L140 80 L152 40 L168 118 L182 60 L194 80 H300 L320 80 L332 52 L346 104 L358 80 H452" pathLength="100" fill="none" stroke="#36D6C5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="22 78"><animate attributeName="stroke-dashoffset" values="22;-78" dur="2.6s" repeatCount="indefinite"/></path>
+<circle cx="452" cy="80" r="4" fill="#B4A7F5"><animate attributeName="opacity" values="1;.2;1" dur="1.3s" repeatCount="indefinite"/></circle>
+<text x="28" y="168" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="34" font-weight="800" fill="url(#g)" letter-spacing="1">SALUD</text>
+<text x="28" y="194" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#9690AA" letter-spacing="1">HEALTH MANAGEMENT APP</text>
+</g>
+<rect x="1" y="1" width="478" height="218" rx="15" fill="none" stroke="#2A2640" stroke-width="2"/>
+</svg>
