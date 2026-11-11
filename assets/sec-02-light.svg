@@ -1,0 +1,78 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" role="img" aria-labelledby="t">
+  <title id="t">Mục 02: Những điều tôi quan tâm</title>
+
+  <defs>
+    <linearGradient id="u" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0E8F80"/>
+      <stop offset="1" stop-color="#0E8F80" stop-opacity="0"/>
+    </linearGradient>
+
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#0E8F80" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#0E8F80" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="c">
+      <rect width="1000" height="120" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#c)">
+    <!-- Background -->
+    <rect width="1000" height="120" rx="20" fill="#FFFFFF"/>
+    <rect x=".5" y=".5" width="999" height="119" rx="20"
+      fill="none" stroke="#D0D7DE"/>
+
+    <!-- Section number -->
+    <text x="38" y="86"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="76"
+      font-weight="700"
+      letter-spacing="-4"
+      fill="none"
+      stroke="#0E8F80"
+      stroke-width="1.2"
+      stroke-opacity=".55">02</text>
+
+    <!-- Main title -->
+    <text x="190" y="59"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="32"
+      font-weight="700"
+      letter-spacing="-.7"
+      fill="#1F2328">Những điều tôi quan tâm</text>
+
+    <!-- Subtitle -->
+    <text x="192" y="83"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="11"
+      font-weight="600"
+      letter-spacing="2.8"
+      fill="#59636E">WHAT KEEPS ME CURIOUS</text>
+
+    <!-- Animated accent -->
+    <rect x="190" y="101" width="180" height="2.5"
+      rx="1.25" fill="url(#u)">
+      <animate attributeName="width"
+        values="55;620;55"
+        dur="8s"
+        repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Decorative status -->
+    <circle cx="950" cy="59" r="18" fill="url(#glow)">
+      <animate attributeName="r"
+        values="14;22;14"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="950" cy="59" r="4.5" fill="#0E8F80">
+      <animate attributeName="opacity"
+        values=".45;1;.45"
+        dur="3s"
+        repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>

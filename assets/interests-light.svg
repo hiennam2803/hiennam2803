@@ -1,0 +1,175 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 380" role="img" aria-labelledby="title">
+  <title id="title">Điều mình quan tâm: AI, sản phẩm dùng được thật, Android, Desktop, Web, công cụ chạy ngay trên máy, debug lúc 2 giờ sáng</title>
+
+  <defs>
+    <radialGradient id="a">
+      <stop offset="0" stop-color="#6D4FD8" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#6D4FD8" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="b">
+      <stop offset="0" stop-color="#0E8F80" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#0E8F80" stop-opacity="0"/>
+    </radialGradient>
+
+    <clipPath id="c">
+      <rect width="1000" height="380" rx="24"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#c)">
+    <rect width="1000" height="380" rx="24" fill="#FFFFFF"/>
+    <rect x=".5" y=".5" width="999" height="379" rx="24" fill="none" stroke="#D0D7DE"/>
+
+    <circle cx="880" cy="60" r="220" fill="url(#a)"/>
+    <circle cx="120" cy="380" r="200" fill="url(#b)"/>
+
+    <!-- AI -->
+    <g>
+      <text
+        x="40" y="190"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="190"
+        font-weight="800"
+        fill="none"
+        stroke="#6D4FD8"
+        stroke-width="2">AI</text>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -5;0 0"
+        dur="7s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- Main statement -->
+    <g>
+      <text
+        x="330" y="96"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="39"
+        font-weight="600"
+        fill="#1F2328">Sản phẩm dùng được thật</text>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -5;0 0"
+        dur="6s"
+        begin="-1s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- Supporting statement -->
+    <g>
+      <text
+        x="332" y="140"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="18"
+        font-weight="500"
+        letter-spacing="1"
+        fill="#0E8F80">→ không chỉ chạy được trong demo</text>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -5;0 0"
+        dur="8s"
+        begin="-2s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- Android -->
+    <g>
+      <text
+        x="330" y="212"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="800"
+        fill="#3F5FD6">Android</text>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -5;0 0"
+        dur="9s"
+        begin="-3s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- Desktop -->
+    <g>
+      <text
+        x="580" y="212"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="43"
+        font-weight="400"
+        fill="#1F2328">Desktop</text>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -5;0 0"
+        dur="7s"
+        begin="-4s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- Web -->
+    <g>
+      <text
+        x="800" y="212"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700"
+        fill="#6D4FD8">Web</text>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -5;0 0"
+        dur="8s"
+        begin="-5s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- Local tools -->
+    <g>
+      <text
+        x="40" y="300"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="36"
+        font-weight="600"
+        fill="#1F2328">Công cụ chạy ngay trên máy mình</text>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -5;0 0"
+        dur="6s"
+        begin="-6s"
+        repeatCount="indefinite"/>
+    </g>
+
+    <!-- Footer -->
+    <g>
+      <text
+        x="40" y="346"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="17"
+        font-weight="600"
+        letter-spacing="2"
+        fill="#59636E">DEBUG LÚC 2 GIỜ SÁNG · ỨNG DỤNG CHO ĐỜI THƯỜNG</text>
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 0;0 -5;0 0"
+        dur="9s"
+        begin="-7s"
+        repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>
