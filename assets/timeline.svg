@@ -1,26 +1,152 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" role="img" aria-labelledby="t"><title id="t">Hành trình: sinh viên CNTT, Salud 2025, WIIS 2026, C.I.R.C.A và VYRON 2026, tiếp theo là Full-stack Developer</title><defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset=".5" stop-color="#7C9CFF"/><stop offset="1" stop-color="#36D6C5"/></linearGradient>
-<clipPath id="c"><rect width="1000" height="400" rx="24"/></clipPath></defs>
-<g clip-path="url(#c)"><rect width="1000" height="400" rx="24" fill="#0D1117"/><rect x=".5" y=".5" width="999" height="399" rx="24" fill="none" stroke="#30363D"/><pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".05"/></pattern><rect width="1000" height="400" fill="url(#gr)"/>
-<line x1="40" y1="200" x2="960" y2="200" stroke="url(#l)" stroke-width="3" stroke-linecap="round"/>
-<circle r="6" cy="200" fill="#fff"><animate attributeName="cx" values="40;960" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;1;0" dur="9s" repeatCount="indefinite"/></circle>
-<line x1="130" y1="154" x2="130" y2="187" stroke="#A78BFA" stroke-opacity=".5" stroke-dasharray="3 5"/>
-<circle cx="130" cy="200" r="11" fill="#0D1117" stroke="#A78BFA" stroke-width="3"/><circle cx="130" cy="200" r="4" fill="#A78BFA"><animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-0.0s" repeatCount="indefinite"/></circle>
-<text x="130" y="78" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" letter-spacing="3" fill="#A78BFA" text-anchor="middle">HIỆN TẠI</text>
-<text x="130" y="112" font-family="Georgia,'Times New Roman',serif" font-size="22" font-style="italic" fill="#E6EDF3" text-anchor="middle">Sinh viên CNTT</text>
-<text x="130" y="142" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#8B949E" text-anchor="middle">ĐH GTVT TP.HCM</text><line x1="315" y1="213" x2="315" y2="230" stroke="#36D6C5" stroke-opacity=".5" stroke-dasharray="3 5"/>
-<circle cx="315" cy="200" r="11" fill="#0D1117" stroke="#36D6C5" stroke-width="3"/><circle cx="315" cy="200" r="4" fill="#36D6C5"><animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-0.6s" repeatCount="indefinite"/></circle>
-<text x="315" y="258" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" letter-spacing="3" fill="#36D6C5" text-anchor="middle">2025</text>
-<text x="315" y="292" font-family="Georgia,'Times New Roman',serif" font-size="26" font-style="italic" fill="#E6EDF3" text-anchor="middle">Salud</text>
-<text x="315" y="322" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#8B949E" text-anchor="middle">App Android sức khỏe</text><line x1="500" y1="154" x2="500" y2="187" stroke="#7C9CFF" stroke-opacity=".5" stroke-dasharray="3 5"/>
-<circle cx="500" cy="200" r="11" fill="#0D1117" stroke="#7C9CFF" stroke-width="3"/><circle cx="500" cy="200" r="4" fill="#7C9CFF"><animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-1.2s" repeatCount="indefinite"/></circle>
-<text x="500" y="78" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" letter-spacing="3" fill="#7C9CFF" text-anchor="middle">2026</text>
-<text x="500" y="112" font-family="Georgia,'Times New Roman',serif" font-size="26" font-style="italic" fill="#E6EDF3" text-anchor="middle">WIIS</text>
-<text x="500" y="142" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#8B949E" text-anchor="middle">Lịch học cho sinh viên</text><line x1="685" y1="213" x2="685" y2="230" stroke="#A78BFA" stroke-opacity=".5" stroke-dasharray="3 5"/>
-<circle cx="685" cy="200" r="11" fill="#0D1117" stroke="#A78BFA" stroke-width="3"/><circle cx="685" cy="200" r="4" fill="#A78BFA"><animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-1.7999999999999998s" repeatCount="indefinite"/></circle>
-<text x="685" y="258" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" letter-spacing="3" fill="#A78BFA" text-anchor="middle">2026</text>
-<text x="685" y="292" font-family="Georgia,'Times New Roman',serif" font-size="22" font-style="italic" fill="#E6EDF3" text-anchor="middle">C.I.R.C.A · VYRON</text>
-<text x="685" y="322" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#8B949E" text-anchor="middle">Desktop AI · Chrome</text><line x1="870" y1="154" x2="870" y2="187" stroke="#36D6C5" stroke-opacity=".5" stroke-dasharray="3 5"/>
-<circle cx="870" cy="200" r="11" fill="#0D1117" stroke="#36D6C5" stroke-width="3"/><circle cx="870" cy="200" r="4" fill="#36D6C5"><animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-2.4s" repeatCount="indefinite"/></circle>
-<text x="870" y="78" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" letter-spacing="3" fill="#36D6C5" text-anchor="middle">TIẾP THEO</text>
-<text x="870" y="112" font-family="Georgia,'Times New Roman',serif" font-size="26" font-style="italic" fill="#E6EDF3" text-anchor="middle">Full-stack</text>
-<text x="870" y="142" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#8B949E" text-anchor="middle">Dev trọn vẹn</text></g></svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" role="img" aria-labelledby="title">
+  <title id="title">Hành trình: sinh viên CNTT, Salud 2025, WIIS 2026, C.I.R.C.A và VYRON 2026, tiếp theo là Full-stack Developer</title>
+
+  <defs>
+    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A78BFA"/>
+      <stop offset=".5" stop-color="#7C9CFF"/>
+      <stop offset="1" stop-color="#36D6C5"/>
+    </linearGradient>
+
+    <clipPath id="c">
+      <rect width="1000" height="400" rx="24"/>
+    </clipPath>
+
+    <pattern id="gr" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".05"/>
+    </pattern>
+  </defs>
+
+  <g clip-path="url(#c)">
+    <rect width="1000" height="400" rx="24" fill="#0D1117"/>
+    <rect x=".5" y=".5" width="999" height="399" rx="24" fill="none" stroke="#30363D"/>
+    <rect width="1000" height="400" fill="url(#gr)"/>
+
+    <!-- Main timeline -->
+    <line x1="40" y1="200" x2="960" y2="200"
+      stroke="url(#l)" stroke-width="3" stroke-linecap="round"/>
+
+    <!-- Moving light -->
+    <circle r="6" cy="200" fill="#fff">
+      <animate attributeName="cx" values="40;960" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- 01: Current -->
+    <line x1="130" y1="154" x2="130" y2="187"
+      stroke="#A78BFA" stroke-opacity=".5" stroke-dasharray="3 5"/>
+
+    <circle cx="130" cy="200" r="11" fill="#0D1117" stroke="#A78BFA" stroke-width="3"/>
+    <circle cx="130" cy="200" r="4" fill="#A78BFA">
+      <animate attributeName="opacity" values="1;.2;1" dur="3s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="130" y="78" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17" font-weight="600" letter-spacing="3"
+      fill="#A78BFA">HIỆN TẠI</text>
+
+    <text x="130" y="112" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="21" font-weight="600"
+      fill="#E6EDF3">Sinh viên CNTT</text>
+
+    <text x="130" y="142" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16" fill="#8B949E">ĐH GTVT TP.HCM</text>
+
+    <!-- 02: Salud -->
+    <line x1="315" y1="213" x2="315" y2="230"
+      stroke="#36D6C5" stroke-opacity=".5" stroke-dasharray="3 5"/>
+
+    <circle cx="315" cy="200" r="11" fill="#0D1117" stroke="#36D6C5" stroke-width="3"/>
+    <circle cx="315" cy="200" r="4" fill="#36D6C5">
+      <animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-.6s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="315" y="258" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17" font-weight="600" letter-spacing="3"
+      fill="#36D6C5">2025</text>
+
+    <text x="315" y="292" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="25" font-weight="700"
+      fill="#E6EDF3">Salud</text>
+
+    <text x="315" y="322" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16" fill="#8B949E">App Android sức khỏe</text>
+
+    <!-- 03: WIIS -->
+    <line x1="500" y1="154" x2="500" y2="187"
+      stroke="#7C9CFF" stroke-opacity=".5" stroke-dasharray="3 5"/>
+
+    <circle cx="500" cy="200" r="11" fill="#0D1117" stroke="#7C9CFF" stroke-width="3"/>
+    <circle cx="500" cy="200" r="4" fill="#7C9CFF">
+      <animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-1.2s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="500" y="78" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17" font-weight="600" letter-spacing="3"
+      fill="#7C9CFF">2026</text>
+
+    <text x="500" y="112" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="25" font-weight="700"
+      fill="#E6EDF3">WIIS</text>
+
+    <text x="500" y="142" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16" fill="#8B949E">Lịch học cho sinh viên</text>
+
+    <!-- 04: C.I.R.C.A and VYRON -->
+    <line x1="685" y1="213" x2="685" y2="230"
+      stroke="#A78BFA" stroke-opacity=".5" stroke-dasharray="3 5"/>
+
+    <circle cx="685" cy="200" r="11" fill="#0D1117" stroke="#A78BFA" stroke-width="3"/>
+    <circle cx="685" cy="200" r="4" fill="#A78BFA">
+      <animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="685" y="258" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17" font-weight="600" letter-spacing="3"
+      fill="#A78BFA">2026</text>
+
+    <text x="685" y="292" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="21" font-weight="700"
+      fill="#E6EDF3">C.I.R.C.A · VYRON</text>
+
+    <text x="685" y="322" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16" fill="#8B949E">Desktop AI · Chrome</text>
+
+    <!-- 05: Next -->
+    <line x1="870" y1="154" x2="870" y2="187"
+      stroke="#36D6C5" stroke-opacity=".5" stroke-dasharray="3 5"/>
+
+    <circle cx="870" cy="200" r="11" fill="#0D1117" stroke="#36D6C5" stroke-width="3"/>
+    <circle cx="870" cy="200" r="4" fill="#36D6C5">
+      <animate attributeName="opacity" values="1;.2;1" dur="3s" begin="-2.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="870" y="78" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="17" font-weight="600" letter-spacing="2"
+      fill="#36D6C5">TIẾP THEO</text>
+
+    <text x="870" y="112" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="25" font-weight="700"
+      fill="#E6EDF3">Full-stack</text>
+
+    <text x="870" y="142" text-anchor="middle"
+      font-family="Arial, Helvetica, sans-serif"
+      font-size="16" fill="#8B949E">Developer</text>
+
+  </g>
+</svg>
