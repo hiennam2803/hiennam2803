@@ -115,8 +115,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiennam2803&show_icons=true&hide_rank=true&bg_color=15131F&title_color=B4A7F5&text_color=F2EFFA&icon_color=36D6C5&border_color=2A2640" alt="Thống kê GitHub của hiennam2803" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiennam2803&layout=compact&langs_count=6&bg_color=15131F&title_color=B4A7F5&text_color=F2EFFA&icon_color=36D6C5&border_color=2A2640" alt="Các ngôn ngữ dùng nhiều nhất của hiennam2803" height="165" />
+<img src="assets/stats.svg" alt="Thống kê GitHub của hiennam2803" height="165" />
+<img src="assets/langs.svg" alt="Các ngôn ngữ dùng nhiều nhất của hiennam2803" height="165" />
 
 <img src="https://streak-stats.demolab.com/?user=hiennam2803&background=15131F&ring=B4A7F5&fire=36D6C5&currStreakNum=F2EFFA&sideNums=F2EFFA&currStreakLabel=B4A7F5&sideLabels=9690AA&dates=9690AA&stroke=2A2640&border=2A2640" alt="Chuỗi đóng góp GitHub của hiennam2803" />
 
